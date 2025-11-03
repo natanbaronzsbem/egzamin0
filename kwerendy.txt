@@ -1,0 +1,12 @@
+1.SELECT nazwa, ulica FROM `kwiaciarnie`  WHERE miasto = Malbork;
+
+2.
+
+3.
+
+4.CREATE TABLE klijenci(
+COLUMN (ID)NOT NULL,
+COLUMN (IMIE) VARCHAR=15,
+COLUMN (NAZWISKO) VARCHAR=15,
+COLUMN (RABAT)
+);
